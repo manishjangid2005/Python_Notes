@@ -15,7 +15,7 @@ b = 2.3
 c = complex(2,3)
 d = "Hello"
 isconnected = True
-
+ 
 print(type(c))
 
 list = [1, 2, 3, 4, 5]               # Sequence Type
